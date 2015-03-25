@@ -11,13 +11,13 @@ title:            Poole
 tagline:          The Jekyll Butler
 url:              http://getpoole.com
 paginate:         1
-baseurl:          /
+baseurl:          http://aj-adl.github.io/poole/
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Alex Bishop
+  url:            https://twitter.com/aj_adl
+  email:          alex (at) bshpdigital.com
 
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/aj-adl/poole
